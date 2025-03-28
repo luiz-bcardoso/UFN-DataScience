@@ -6,10 +6,10 @@ Capacidade de coletar, armazenar e organizar dados. Além de desenvolver algorit
 
 `Ingestão -> Armazenamento e Processamento -> Análise -> Comunicação`
 
-**Evolução do Ciclo de Dados**
+## **Evolução do Ciclo de Dados**
 
 ![Ciclo de Dados](https://miro.medium.com/v2/resize:fit:377/1*_fR-2Yg-xaWXssnj08Zqeg.jpeg)
 
-**Áreas de conhecimento para Ciência de Dados**
+## **Áreas de conhecimento para Ciência de Dados**
 
 ![Diagrama](https://abracd.org/wp-content/uploads/2019/04/diagrama-data-science.png)
