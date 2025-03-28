@@ -3,4 +3,4 @@ Capacidade de coletar, armazenar e organizar dados. Além de desenvolver algorit
 
 **Ciclo da Ciência de Dados (IBM)**
 
-Ingestão -> Armazenamento e Processamento -> Análise -> Comunicação
+`Ingestão -> Armazenamento e Processamento -> Análise -> Comunicação`
