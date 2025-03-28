@@ -1,8 +1,6 @@
 # Especialização em Ciência de Dados. 
 Capacidade de coletar, armazenar e organizar dados. Além de desenvolver algoritimos para extrair insights e tendências.
 
-**Áreas de conhecimento para Ciência de Dados**
-![Diagrama](https://abracd.org/wp-content/uploads/2019/04/diagrama-data-science.png)
 
 **Ciclo da Ciência de Dados (IBM)**
 
@@ -11,3 +9,6 @@ Capacidade de coletar, armazenar e organizar dados. Além de desenvolver algorit
 **Evolução do Ciclo de Dados**
 
 ![Ciclo de Dados](https://miro.medium.com/v2/resize:fit:377/1*_fR-2Yg-xaWXssnj08Zqeg.jpeg)
+
+**Áreas de conhecimento para Ciência de Dados**
+![Diagrama](https://abracd.org/wp-content/uploads/2019/04/diagrama-data-science.png)
