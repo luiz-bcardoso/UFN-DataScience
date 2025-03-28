@@ -7,6 +7,4 @@ Capacidade de coletar, armazenar e organizar dados. Além de desenvolver algorit
 
 **Evolução do Ciclo de Dados**
 
-`Entender o problema -> Coleta de Dados -> Processamento de Dados -> Exploração de Dados -> Comunicação de Dados -> Feedback`
-
 ![Ciclo de Dados](https://miro.medium.com/v2/resize:fit:377/1*_fR-2Yg-xaWXssnj08Zqeg.jpeg)
